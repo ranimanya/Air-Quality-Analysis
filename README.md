@@ -6,8 +6,7 @@ aims to determine which algorithm gives best results. The analysis has been
 done in Google Colaboratory and visualization has been done in Tableau public 
 2022.3.
 Analyzing Air Quality Data and predicting temperature using three different 
-algorithms namely –
+algorithms and determine which gives best accuracy.
 1. Random Forest
 2. Decision Tree
 3. Support Vector regression
-And determine which gives best accuracy.
